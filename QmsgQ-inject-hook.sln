@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QmsgQ-inject-hook", "QmsgQ-inject-hook.vcxproj", "{51E69FA6-1116-461A-874C-01DF84106BD9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookQQMsgDll", "HookQQMsgDll\HookQQMsgDll\HookQQMsgDll.vcxproj", "{44267637-4607-4B0E-A5A6-387807FF1128}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookQQMsg", "HookQQMsg\HookQQMsg\HookQQMsg.vcxproj", "{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Debug|x64.ActiveCfg = Debug|x64
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Debug|x64.Build.0 = Debug|x64
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Debug|x86.ActiveCfg = Debug|Win32
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Debug|x86.Build.0 = Debug|Win32
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Release|x64.ActiveCfg = Release|x64
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Release|x64.Build.0 = Release|x64
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Release|x86.ActiveCfg = Release|Win32
+		{51E69FA6-1116-461A-874C-01DF84106BD9}.Release|x86.Build.0 = Release|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Debug|x64.ActiveCfg = Debug|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Debug|x86.ActiveCfg = Debug|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Debug|x86.Build.0 = Debug|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Release|x64.ActiveCfg = Release|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Release|x86.ActiveCfg = Release|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Release|x86.Build.0 = Release|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Debug|x64.ActiveCfg = Debug|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Debug|x86.Build.0 = Debug|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Release|x64.ActiveCfg = Release|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Release|x86.ActiveCfg = Release|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF711C26-226A-438A-9320-C190EFE1D5CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookQQMsgDll", "HookQQMsgDll\HookQQMsgDll.vcxproj", "{44267637-4607-4B0E-A5A6-387807FF1128}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookQQMsg", "..\HookQQMsg\HookQQMsg\HookQQMsg.vcxproj", "{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Debug|Win32.Build.0 = Debug|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Release|Win32.ActiveCfg = Release|Win32
+		{44267637-4607-4B0E-A5A6-387807FF1128}.Release|Win32.Build.0 = Release|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Debug|Win32.Build.0 = Debug|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Release|Win32.ActiveCfg = Release|Win32
+		{9E344DC7-0B7F-44E2-A052-C53640FB7DC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
